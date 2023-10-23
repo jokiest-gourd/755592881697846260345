@@ -1,0 +1,423 @@
+{
+  "project_info": {
+    "project_number": "339961048840",
+    "firebase_url": "https://arengka-studio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "arengka-studio",
+    "storage_bucket": "arengka-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:6e3a0fdf843e2e6e65c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.haribatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-lqk07mke56uqp7bc803tkal5l32143fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.haribatik",
+            "certificate_hash": "e6241c02137418f6cdb11f0b0307e6d26a5e2762"
+          }
+        },
+        {
+          "client_id": "339961048840-pa0oh2o42p2191bsajtbk285qo34al40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.haribatik",
+            "certificate_hash": "6875b40ec2a8e7036725356ea82f6c7a1b5a5f3e"
+          }
+        },
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:fb99988d87d010e365c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.hariguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:d2d9da11df15815c65c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.hariibu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:52c7a2327d651fa465c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.hariimlek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:892224f58d93a46665c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.harikesaktianpancasila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-1ip49jrd5j2lg6vbfvel5rcqkdl4div4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.harikesaktianpancasila",
+            "certificate_hash": "d3af10aad0b4ee1a06b4de218f191661424a6179"
+          }
+        },
+        {
+          "client_id": "339961048840-v0e59nf29k53dab782t80p8ub51av2uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.harikesaktianpancasila",
+            "certificate_hash": "e6241c02137418f6cdb11f0b0307e6d26a5e2762"
+          }
+        },
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:3d5dc589e254096765c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.haripahlawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-2nqu9qlenlva4q6gorn3atn5lb2rlo0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.haripahlawan",
+            "certificate_hash": "dfd4b57fa85f3ac466505deed593324f2d778845"
+          }
+        },
+        {
+          "client_id": "339961048840-ce1ve1bqanbk8encgakp1e8kr8l8eegd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.haripahlawan",
+            "certificate_hash": "e6241c02137418f6cdb11f0b0307e6d26a5e2762"
+          }
+        },
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:981d4dcde3d9dfc465c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.harisantri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-2evmedkg5hnvu9ogmjoq603575mfef9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.harisantri",
+            "certificate_hash": "e6241c02137418f6cdb11f0b0307e6d26a5e2762"
+          }
+        },
+        {
+          "client_id": "339961048840-i2jb1jg18i88rh98v4tmnbb5i6iq53mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arengkastudio.twibbonframe.harisantri",
+            "certificate_hash": "f085ee263561e5a18e0bc06dd6a3b2f0dad33ad8"
+          }
+        },
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:d529f8e8e16d815f65c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.sumpahpemuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:bbdfecb83018616865c6bd",
+        "android_client_info": {
+          "package_name": "arengkastudio.twibbonframe.tahunbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:4da20d5a789b9cd465c6bd",
+        "android_client_info": {
+          "package_name": "com.arengkastudio.twibbonpemilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:e6c871e5f765276a65c6bd",
+        "android_client_info": {
+          "package_name": "com.wallengine.hd4kwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339961048840:android:6f6d3f75073f1fb565c6bd",
+        "android_client_info": {
+          "package_name": "com.wallprohd.stockwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUhAIBbt1RXuQhsqaqkKutIUxPP7OaDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339961048840-6pivmsehr391ti48472c4lrvj3i6d5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
